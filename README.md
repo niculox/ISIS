@@ -8,8 +8,8 @@
 [![Mode](https://img.shields.io/badge/Core-100%25%20Offline%20Autonomous-blue?style=for-the-badge)]()
 [![Roadmap](https://img.shields.io/badge/NASA-Human%20Research%20Roadmap-purple?style=for-the-badge)]()
 
-[View Project on NASA Space Apps Website](https://www.spaceappschallenge.org/find-a-team/quas6r/?tab=project)
-
+[View Project on NASA Space Apps Website]([https://www.spaceappschallenge.org/find-a-team/quas6r/?tab=project)
+(https://www.spaceappschallenge.org/2026/find-a-team/quas6r/)
 </div>
 
 ---
@@ -89,7 +89,7 @@ The system operates through a high-performance web interface in a dark mode (*cy
 
 Project developed by specialists in human factors, computational neurobiology, and autonomous systems to ensure the cognitive resilience of crews in deep exploration environments.
 
-* **Official Repository / Submission:** [NASA Space Apps Challenge - ISIS Project](https://www.spaceappschallenge.org/find-a-team/quas6r/?tab=project)
+* **Official Repository / Submission:** [NASA Space Apps Challenge - ISIS Project][(https://www.spaceappschallenge.org/find-a-team/quas6r/?tab=project)](https://www.spaceappschallenge.org/2026/find-a-team/quas6r/)
 
 ---
 
