@@ -60,7 +60,7 @@ const pointerPlane = new THREE.Plane(new THREE.Vector3(0, 0, 1), 0);
 
 const loader = new PLYLoader();
 loader.load(
-    '../assets/pointcloud/isis_pointcloud.ply',
+    './assets/pointcloud/isis_pointcloud.ply',
   (geometry) => {
     geometry.computeBoundingBox();
     const center = new THREE.Vector3();
